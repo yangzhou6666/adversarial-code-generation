@@ -25,5 +25,5 @@ MODELS_IN=${19} \
 TRANSFORMS="${13}" \
 NUM_REPLACEMENTS=${20} \
 CURRENT_ATTACK_EPOCH=1 \
-  time make extract-adv-dataset-tokens
+  make extract-adv-dataset-tokens
 
